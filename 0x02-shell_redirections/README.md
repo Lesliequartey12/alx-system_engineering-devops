@@ -1,1 +1,1 @@
-Write a script that displays aa confused smiley "Ôo' 
+Display the last 10 lines of /etc/passwd
